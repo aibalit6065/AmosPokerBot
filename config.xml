@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table defWidth="794" defHeight="534">
+    <templates>
+        <playerTemplate filename="player.png"/>
+        <activePlayerTemplate filename="activeplayer2.png"/>
+        <buttonTemplate filename="button.png"/>
+        <button2Template filename="button2.png"/>
+    </templates>
+    <totalPot x="359" y="95" width="75" height="16"/>
+    <tableSizes>
+        <table6>0,2,4,5,7,9</table6>
+        <table9>0,1,2,10,11,12,7,8,9</table9>
+        <table10>0,1,2,3,4,5,6,7,8,9</table10>
+    </tableSizes>
+    <players>
+        <player0 x="458" y="7" width="103" height="88">
+            <name x="3" y="58" width="97" height="12"/>
+            <bank x="5" y="73" width="87" height="14"/>
+            <button x="-19" y="78" width="25" height="25"/>
+            <bet x="-13" y="116" width="110" height="12"/>
+            <cards>
+                <card0 x="25" y="8" width="24" height="24"/>
+                <card1 x="47" y="8" width="24" height="24"/>
+            </cards>
+        </player0>
+        <player1 x="593" y="36" width="105" height="89">
+            <name x="3" y="58" width="99" height="14"/>
+            <bank x="6" y="74" width="87" height="14"/>
+            <button x="-23" y="67" width="20" height="21"/>
+            <bet x="-47" y="115" width="99" height="14"/>
+            <cards>
+                <card0 x="27" y="11" width="21" height="24"/>
+                <card1 x="49" y="11" width="21" height="24"/>
+            </cards>
+        </player1>
+        <player2 x="675" y="152" width="105" height="90">
+            <name x="4" y="58" width="97" height="13"/>
+            <bank x="5" y="73" width="88" height="15"/>
+            <button x="-27" y="10" width="22" height="18"/>
+            <bet x="-101" y="60" width="99" height="14"/>
+            <cards>
+                <card0 x="27" y="10" width="20" height="23"/>
+                <card1 x="49" y="10" width="22" height="23"/>
+            </cards>
+        </player2>
+        <player3 x="593" y="275" width="105" height="89">
+            <name x="3" y="58" width="99" height="14"/>
+            <bank x="6" y="73" width="87" height="15"/>
+            <button x="-39" y="0" width="24" height="21"/>
+            <bet x="-58" y="-17" width="99" height="14"/>
+            <cards>
+                <card0 x="24" y="9" width="24" height="24"/>
+                <card1 x="46" y="7" width="23" height="22"/>
+            </cards>
+        </player3>
+        <player4 x="429" y="303" width="105" height="90">
+            <name x="3" y="58" width="99" height="14"/>
+            <bank x="6" y="73" width="87" height="15"/>
+            <button x="-9" y="-21" width="25" height="25"/>
+            <bet x="19" y="-15" width="101" height="14"/>
+            <cards>
+                <card0 x="27" y="11" width="24" height="24"/>
+                <card1 x="47" y="11" width="24" height="24"/>
+            </cards>
+        </player4>
+        <player5 x="259" y="304" width="105" height="89">
+            <name x="3" y="58" width="99" height="14"/>
+            <bank x="7" y="72" width="87" height="16"/>
+            <button x="86" y="-22" width="25" height="20"/>
+            <bet x="-15" y="-17" width="99" height="14"/>
+            <cards>
+                <card0 x="27" y="11" width="24" height="24"/>
+                <card1 x="47" y="11" width="24" height="24"/>
+            </cards>
+        </player5>
+        <player6 x="96" y="275" width="105" height="89">
+            <name x="3" y="58" width="99" height="14"/>
+            <bank x="7" y="72" width="87" height="16"/>
+            <button x="109" y="-1" width="25" height="25"/>
+            <bet x="60" y="-18" width="99" height="15"/>
+            <cards>
+                <card0 x="27" y="11" width="24" height="24"/>
+                <card1 x="47" y="11" width="24" height="24"/>
+            </cards>
+        </player6>
+        <player7 x="15" y="152" width="104" height="89">
+            <name x="3" y="58" width="98" height="13"/>
+            <bank x="6" y="74" width="87" height="14"/>
+            <button x="106" y="9" width="22" height="19"/>
+            <bet x="106" y="60" width="92" height="15"/>
+            <cards>
+                <card0 x="25" y="10" width="22" height="24"/>
+                <card1 x="47" y="10" width="24" height="24"/>
+            </cards>
+        </player7>
+        <player8 x="96" y="36" width="105" height="90">
+            <name x="3" y="58" width="99" height="14"/>
+            <bank x="6" y="74" width="87" height="15"/>
+            <button x="105" y="65" width="25" height="25"/>
+            <bet x="45" y="114" width="99" height="15"/>
+            <cards>
+                <card0 x="27" y="11" width="24" height="24"/>
+                <card1 x="47" y="11" width="24" height="24"/>
+            </cards>
+        </player8>
+        <player9 x="234" y="6" width="105" height="89">
+            <name x="3" y="58" width="98" height="13"/>
+            <bank x="6" y="73" width="87" height="15"/>
+            <button x="96" y="82" width="24" height="24"/>
+            <bet x="-4" y="114" width="103" height="15"/>
+            <cards>
+                <card0 x="26" y="10" width="20" height="24"/>
+                <card1 x="47" y="10" width="21" height="24"/>
+            </cards>
+        </player9>
+        <player10 x="554" y="285" width="105" height="90">
+            <name x="4" y="57" width="98" height="13"/>
+            <bank x="6" y="73" width="87" height="15"/>
+            <button x="-30" y="-3" width="24" height="21"/>
+            <bet x="-56" y="-20" width="101" height="13"/>
+            <cards>
+                <card0 x="27" y="11" width="24" height="24"/>
+                <card1 x="47" y="11" width="24" height="24"/>
+            </cards>
+        </player10>
+        <player11 x="346" y="308" width="105" height="89">
+            <name x="3" y="58" width="99" height="14"/>
+            <bank x="7" y="72" width="87" height="16"/>
+            <button x="-7" y="-25" width="22" height="19"/>
+            <bet x="23" y="-14" width="94" height="13"/>
+            <cards>
+                <card0 x="24" y="9" width="24" height="24"/>
+                <card1 x="48" y="9" width="24" height="24"/>
+            </cards>
+        </player11>
+        <player12 x="136" y="285" width="105" height="89">
+            <name x="3" y="57" width="98" height="13"/>
+            <bank x="7" y="72" width="87" height="16"/>
+            <button x="115" y="-1" width="20" height="17"/>
+            <bet x="22" y="-26" width="99" height="14"/>
+            <cards>
+                <card0 x="27" y="11" width="24" height="24"/>
+                <card1 x="50" y="11" width="24" height="24"/>
+            </cards>
+        </player12>
+    </players>
+    <cards>
+        <card0 x="241" y="158" width="23" height="24"/>
+        <card1 x="305" y="158" width="23" height="24"/>
+        <card2 x="370" y="158" width="23" height="24"/>
+        <card3 x="434" y="158" width="23" height="24"/>
+        <card4 x="498" y="158" width="23" height="24"/>
+    </cards>
+    <buttons>
+        <button0 x="420" y="467" width="108" height="36"/>
+        <button1 x="548" y="466" width="109" height="38"/>
+        <button2 x="677" y="466" width="108" height="37"/>
+    </buttons>
+    <betInput x="710" y="430" width="69" height="13"/>
+    <optionsTab x="25" y="405" width="20" height="10"/>
+    <chatTab x="60" y="405" width="20" height="10"/>
+    <rebuyTab x="130" y="405" width="40" height="10"/>
+    <rebuyInput x="170" y="490" width="70" height="10"/>
+    <rebuyButton x="335" y="490" width="55" height="15"/>
+    <sitOutNextBBcheckbox x="220" y="442" width="5" height="5"/>
+    <sitOutCheckbox x="220" y="460" width="5" height="5"/>
+    <popupWindowButton x="557" y="114" width="4" height="6"/>
+    <popupWindowPart x="340" y="110" width="100" height="15"/>
+</table>

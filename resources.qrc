@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>target.png</file>
+        <file>activeplayer.png</file>
+        <file>button.png</file>
+        <file>button2.png</file>
+        <file>player.png</file>
+        <file>activeplayer2.png</file>
+        <file>config.xml</file>
+        <file>pdf.png</file>
+    </qresource>
+</RCC>
